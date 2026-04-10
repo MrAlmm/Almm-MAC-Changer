@@ -17,7 +17,7 @@ A professional Python tool designed for Ethical Hackers to change network interf
 ## 📖 How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MrAlmm/Almm-MAC-Changer.git
+ git remote set-url origin https://github.com/MrAlmm/Almm-MAC-Changer.git
   cd Almm-MAC-Changer
   
 
